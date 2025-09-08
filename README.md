@@ -1,22 +1,32 @@
 # テヘラニ　ファルド　スィナ | システムエンジニア
 
-こんにちは、テヘラニです。  
-主にシステム開発やAIサービスの開発に取り組んでいます。
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Sina-TehraniFard&color=brightgreen&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/Sina-TehraniFard?style=for-the-badge&logo=github)
 ![Stars](https://img.shields.io/github/stars/Sina-TehraniFard?style=for-the-badge&logo=github)
 ![Commits](https://img.shields.io/badge/dynamic/json?label=commits&query=%24.commit_count&url=https://api.github-star-counter.workers.dev/user/Sina-TehraniFard&style=for-the-badge&logo=git)
 ![Last Commit](https://img.shields.io/github/last-commit/Sina-TehraniFard/Sina-TehraniFard?style=for-the-badge&logo=git)
 
-## 自己紹介・取り組み
+## 📃 自己紹介
 
-- 個人開発では **AIタロット占い** を公開。現在はAPI呼び出し中心ですが、将来的にRAGの実装にも挑戦予定です。  
-- バックエンドは **Java出身**、その後 **Kotlin（サーバサイド）** を本格的に経験。  
-- 自己開発では **TypeScript / Next.js / React** といったモダンフロントエンドを習得中。  
-- 一方で「AIに頼りすぎてしまう」課題感も意識しており、自分の手でコードを書くことにも力を入れています。
+システムエンジニアのテヘラニです。  
+
+2021年からキャリアを開始し、災害支援システム、証券システム、プロダクト開発など幅広く経験しました。  
+要件定義から結合テストまで、ひととおり味わっています。
+
+- 個人開発では **AIタロット占い** を公開。OpenAIのAPIを叩いて未来を占っていますが、次はRAG実装を画策中。  
+- バックエンドは **Java出身**。その後 **Kotlin（サーバサイド）** に惹かれて実務投入。  
+- 自己開発では **TypeScript / Next.js / React** を取り入れ、モダンなフロントエンドを修行中。  
+    - ただし「AIに頼りすぎるとコーディング力が衰えるのでは？」という懸念もあり、自分の手でコードを書くことを怠らないようにしています。  
+- クラウド経験
+    - AWS：保守・運用の実務経験あり。個人開発でもゼロからの構築を繰り返し、実力はまだまだだがだいぶ雲の上に住んでいる気分です。  
+    - GCP：自己開発でゼロからの構築を行い、実際にサービス公開までこぎつけています。
+
+## 🏆 Git Hubの実績
+<div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sina-TehraniFard&theme=tokyonight&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ## 🛠️ 技術スタック
 
