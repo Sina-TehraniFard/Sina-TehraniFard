@@ -1,10 +1,7 @@
 # テヘラニ　ファルド　スィナ | システムエンジニア
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sina-TehraniFard&color=brightgreen&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Sina-TehraniFard?style=for-the-badge&logo=github)
-![Stars](https://img.shields.io/github/stars/Sina-TehraniFard?style=for-the-badge&logo=github)
 ![Commits](https://img.shields.io/badge/dynamic/json?label=commits&query=%24.commit_count&url=https://api.github-star-counter.workers.dev/user/Sina-TehraniFard&style=for-the-badge&logo=git)
-![Last Commit](https://img.shields.io/github/last-commit/Sina-TehraniFard/Sina-TehraniFard?style=for-the-badge&logo=git)
 
 ## 📃 自己紹介　※2025年10月時点
 
