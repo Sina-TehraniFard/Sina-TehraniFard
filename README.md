@@ -2,9 +2,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sina-TehraniFard&color=brightgreen&style=for-the-badge)
 
-## 📃 自己紹介　※2025年10月時点
+## 📃 自己紹介
 
-見てくれてありがとうございます。システムエンジニアのテヘラニです。  
+システムエンジニアのテヘラニです。  
 
 2021年からエンジニアとしてのキャリアを始め、災害時支援システム、証券システム、BtoBのSaaSプロダクト開発など幅広く経験しました。  
 要件定義から結合テストまで、ひととおり経験しています。
