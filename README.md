@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sina-TehraniFard&color=brightgreen&style=for-the-badge)
 
-## 📃 自己紹介
+## 自己紹介
 
 システムエンジニアのテヘラニです。  
 
@@ -11,20 +11,21 @@
 
 - 個人開発では AIタロット占い を公開。OpenAIのAPIを叩いて未来を占っていますが、次はRAG実装を計画中。  
 - バックエンドは Java出身。その後 Kotlin（サーバサイド） に惹かれて現在キャッチアップ中です、
-- 自己開発では TypeScript / Next.js / React を取り入れ、モダンなフロントエンドをバイブコーディングで書いてます。
-    - ただし「AIに頼りすぎるとコーディング力が衰えるのでは？」という懸念もあり、自分の手でコードを書くことを怠らないようにしています。  
+- 個人開発では TypeScript / Next.js / React を取り入れ、モダンなフロントエンドをバイブコーディングで書いてます。
+    - ただし「AIに頼りすぎるとコーディング力が衰えるのでは？」という懸念もあり、自分の手でコードを書くことを怠らないようにしています。
+- ドメイン駆動設計の知見を積極的にキャッチアップしています。
 - クラウド経験
     - AWS：保守・運用の実務経験あり。個人開発でもゼロからの構築を繰り返し腕を磨いてます。
     - GCP：自己開発でゼロからの構築を行い、実際にサービス公開までこぎつけています。
 
-## 🏆 Git Hubの実績
+## Git Hubの実績
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sina-TehraniFard&theme=tokyonight&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-## 🛠️ 技術スタック
+## 技術スタック
 
 <div align="center">
 
