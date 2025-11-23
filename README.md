@@ -1,10 +1,10 @@
-# テヘラニ　ファルド　スィナ | システムエンジニア
+# テヘラニ　ファルド　スィナ | バックエンドエンジニア
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sina-TehraniFard&color=brightgreen&style=for-the-badge)
 
 ## 自己紹介
 
-システムエンジニアのテヘラニです。  
+バックエンドエンジニアのテヘラニです。  
 
 災害時支援システム、証券システム、BtoBのSaaSプロダクト開発など幅広く経験しました。  
 要件定義から結合テストまで、ひととおり経験しています。
