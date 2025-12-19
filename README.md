@@ -38,8 +38,9 @@
 ## GitHub
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=XXX&show_icons=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sina-TehraniFard&show_icons=true&include_all_commits=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sina-TehraniFard&show_icons=true&hide_title=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sina-TehraniFard&layout=compact" />
 </p>
 
 ## 連絡先
