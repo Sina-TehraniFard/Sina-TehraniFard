@@ -20,12 +20,6 @@
 
 ---
 
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sina-TehraniFard" />
-</p>
-
----
-
 ## できること（強み）
 - バックエンドの設計〜実装〜テスト（ユニット/結合）までを一貫して進める
 - 要件定義〜総合テストまでの実務経験がある
@@ -34,13 +28,6 @@
 - ドメイン駆動設計の実務経験（ジュニア〜ミドルレベル）
 
 ---
-
-## GitHub
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sina-TehraniFard&show_icons=true&hide_title=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sina-TehraniFard&layout=compact" />
-</p>
 
 ## 連絡先
 - Mail：`tf.sina.system@gmail.com`
