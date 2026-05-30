@@ -64,13 +64,13 @@
 ## What I Do
 
 #### 設計を起点にする
-クリーンアーキテクチャ・DDD を実プロジェクトに適用。依存方向のESLintを仕組みで強制するなど、「設計を形骸化させない」ことを大切にしています。
+クリーンアーキテクチャ・DDD を実プロジェクトに適用。依存方向の制約を ESLint で機械的に強制するなど、「設計を形骸化させない」ことを大切にしています。
 
 #### フルスタックで一気通貫
-バックエンド（Kotlin / Spring Boot・Python）を主軸に、フロントエンド（React / Next.js）、インフラ（AWS / CDK）まで横断。要件から詳細設計、実装、運用までを担当できます
+バックエンド（Kotlin / Spring Boot・Python）を主軸に、フロントエンド（React / Next.js）、インフラ（AWS / CDK）まで横断。要件から詳細設計、実装、運用までを担当できます。
 
 #### AI で開発を仕組み化
-Claude Code のプラグイン／スキル群や AI-DLC（AI 駆動の開発ライフサイクル）を整備し、チームの開発プロセスそのものを設計
+Claude Code のプラグイン／スキル群や AI-DLC（AI 駆動の開発ライフサイクル）を整備し、チームの開発プロセスそのものを設計しています。
 
 ---
 
@@ -81,7 +81,7 @@ Claude Code のプラグイン／スキル群や AI-DLC（AI 駆動の開発ラ�
 | ヘルスケア | 登録者数 1,000万人以上 のヘルスケアサービスの API・基盤開発 | Kotlin / Spring Boot, Python, AWS |
 | 留学プラットフォーム | 管理ダッシュボード・公開 Web のフロントエンド開発 | React / Next.js, TypeScript, tRPC |
 | AI 開発基盤 | チーム向け Claude Code プラグイン群と開発プロセスの設計 | Claude Code, Amazon Bedrock |
-| 個人開発 | リアルタイム処理システムを、事業品質の設計で一人で構築 | Clean Architecture / DDD / Hexagonal |
+| 個人開発 | リアルタイム処理システムを、事業品質の設計で一人で構築 | Clean Architecture / DDD |
 
 ---
 
