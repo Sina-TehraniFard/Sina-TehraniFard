@@ -17,17 +17,17 @@
 
 ---
 
-## 👋 About
+## About
 
-バックエンドを軸に **設計から運用までを一貫して担う** ソフトウェアエンジニアです。
+バックエンドを軸に 設計から運用までを一貫して担う ソフトウェアエンジニアです。
 
 クリーンアーキテクチャや DDD といった設計を起点に、「壊れにくく・育てやすい」システムを作ることにこだわっています。バックエンドを主軸としつつ、フロントエンドも **詳細設計から実装まで自走** し、インフラ（AWS / IaC）や AI を使った開発基盤づくりまで、一気通貫で手を動かせるのが強みです。
 
-近年は **Claude Code や Amazon Bedrock を活用した「開発そのものの仕組み化」** に力を入れ、個人の生産性だけでなく、チーム全体の開発体験と品質を底上げすることに取り組んでいます。
+**Claude Code や Amazon Bedrock を活用した「開発そのものの仕組み化」** に力を入れ、個人の生産性だけでなく、チーム全体の開発体験と品質を底上げすることに取り組んでいます。
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 #### Backend（主軸）
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
@@ -61,33 +61,33 @@
 
 ---
 
-## 💡 What I Do
+## What I Do
 
-#### 🧭 設計を起点にする
-クリーンアーキテクチャ・DDD・Hexagonal Architecture を実プロジェクトに適用。依存方向の制約を仕組みで強制するなど、「設計を絵に描いた餅で終わらせない」ことを大切にしています。
+#### 設計を起点にする
+クリーンアーキテクチャ・DDD を実プロジェクトに適用。依存方向のESLintを仕組みで強制するなど、「設計を形骸化させない」ことを大切にしています。
 
-#### 🌐 フルスタックで一気通貫
-バックエンド（Kotlin / Spring Boot・Python）を主軸に、フロントエンド（React / Next.js）、インフラ（AWS / CDK）まで横断。要件から詳細設計、実装、運用までを途切れさせずに担当できます。
+#### フルスタックで一気通貫
+バックエンド（Kotlin / Spring Boot・Python）を主軸に、フロントエンド（React / Next.js）、インフラ（AWS / CDK）まで横断。要件から詳細設計、実装、運用までを担当できます
 
-#### 🤖 AI で開発を仕組み化
-Claude Code のプラグイン／スキル群や AI-DLC（AI 駆動の開発ライフサイクル）を整備し、チームの開発プロセスそのものを設計。非エンジニア向けの品質担保の仕組みづくりにも取り組んでいます。
+#### AI で開発を仕組み化
+Claude Code のプラグイン／スキル群や AI-DLC（AI 駆動の開発ライフサイクル）を整備し、チームの開発プロセスそのものを設計
 
 ---
 
-## 🚀 Highlights
+## Highlights
 
 | 領域 | 概要 | 主な技術 |
 |------|------|----------|
-| ❤️ ヘルスケア | 登録者数 **1,000万人以上** のヘルスケアサービスの API・基盤開発 | Kotlin / Spring Boot, Python, AWS |
-| 🎓 留学プラットフォーム | 管理ダッシュボード・公開 Web のフロントエンド開発 | React / Next.js, TypeScript, tRPC |
-| ⚙️ AI 開発基盤 | チーム向け Claude Code プラグイン群と開発プロセスの設計 | Claude Code, Amazon Bedrock |
-| 📈 個人開発 | リアルタイム処理システムを、事業品質の設計で一人で構築 | Clean Architecture / DDD / Hexagonal |
+| ヘルスケア | 登録者数 1,000万人以上 のヘルスケアサービスの API・基盤開発 | Kotlin / Spring Boot, Python, AWS |
+| 留学プラットフォーム | 管理ダッシュボード・公開 Web のフロントエンド開発 | React / Next.js, TypeScript, tRPC |
+| AI 開発基盤 | チーム向け Claude Code プラグイン群と開発プロセスの設計 | Claude Code, Amazon Bedrock |
+| 個人開発 | リアルタイム処理システムを、事業品質の設計で一人で構築 | Clean Architecture / DDD / Hexagonal |
 
 ---
 
 <div align="center">
 
-*設計の美しさと、動くものの確かさ。その両方を諦めないエンジニアでありたいと思っています。*
+*AI時代に活躍できるエンジニアでありたいと思っています。*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:26d0ce,100:1a2980&height=120&section=footer"/>
 
