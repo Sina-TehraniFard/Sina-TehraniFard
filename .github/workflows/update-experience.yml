@@ -29,9 +29,9 @@ jobs:
           if [ "$Y" -eq 1 ]; then YL="yr"; else YL="yrs"; fi
           if [ "$M" -eq 1 ]; then ML="mo"; else ML="mos"; fi
           if [ "$M" -eq 0 ]; then
-            TEXT="**Experience:** ${Y} ${YL} （Since Oct 2022）"
+            TEXT="**Career:** ${Y} ${YL} （Since Oct 2022）"
           else
-            TEXT="**Experience:** ${Y} ${YL} ${M} ${ML} （Since Oct 2022）"
+            TEXT="**Career:** ${Y} ${YL} ${M} ${ML} （Since Oct 2022）"
           fi
           export TEXT
           python3 - <<'PY'
