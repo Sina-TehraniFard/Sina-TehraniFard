@@ -26,10 +26,12 @@ jobs:
           [ "$MONTHS" -lt 0 ] && MONTHS=0
           Y=$(( MONTHS / 12 ))
           M=$(( MONTHS % 12 ))
+          if [ "$Y" -eq 1 ]; then YL="yr"; else YL="yrs"; fi
+          if [ "$M" -eq 1 ]; then ML="mo"; else ML="mos"; fi
           if [ "$M" -eq 0 ]; then
-            TEXT="**エンジニア歴: ${Y}年**（2022年10月〜）"
+            TEXT="**Experience:** ${Y} ${YL} （Since Oct 2022）"
           else
-            TEXT="**エンジニア歴: ${Y}年${M}ヶ月**（2022年10月〜）"
+            TEXT="**Experience:** ${Y} ${YL} ${M} ${ML} （Since Oct 2022）"
           fi
           export TEXT
           python3 - <<'PY'

@@ -82,7 +82,7 @@ Claude Code のプラグイン／スキル群や AI-DLC（AI 駆動の開発ラ�
 ## Experience
 
 <!-- experience-years:start -->
-**エンジニア歴: 3年7ヶ月**（2022年10月〜）
+**Experience:** 3 yrs 7 mos （Since Oct 2022）
 <!-- experience-years:end -->
 
 | プロジェクト | 期間 | 役割 | ステータス |
