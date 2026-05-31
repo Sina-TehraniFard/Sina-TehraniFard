@@ -1,10 +1,10 @@
 name: Update experience duration
 
-# README の「エンジニア歴」を 2022年10月起点で毎日再計算し、
+# README の「エンジニア歴」を 2022年10月起点で月1回再計算し、
 # 値が変わったときだけコミットする。
 on:
   schedule:
-    - cron: '0 0 * * *'   # 毎日 00:00 UTC
+    - cron: '0 0 1 * *'   # 毎月1日 00:00 UTC
   workflow_dispatch:        # 手動実行も可能
 
 permissions:
