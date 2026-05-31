@@ -81,14 +81,18 @@ Claude Code のプラグイン／スキル群や AI-DLC（AI 駆動の開発ラ�
 
 ## Experience
 
-| プロジェクト | 期間 | 役割 |
-|------|------|------|
-| ヘルスケアアプリ（登録者数 1,000万人以上）の API・基盤開発 *(進行中)* | 約1年 | バックエンド開発 |
-| 留学プラットフォーム（管理画面・公開画面）の開発 *(進行中)* | 約半年 | フロントエンド開発 |
-| 証券取引アプリの API・基盤開発 | 約1年 | バックエンド開発 |
-| SaaS 管理システムの開発 | 約半年 | バックエンド開発 |
-| 社内勤怠システムのリプレイス | 約半年 | PL / バックエンド開発 |
-| 災害時支援システムの開発 | 約1年 | PM 補佐 / バックエンド開発 |
+<!-- experience-years:start -->
+**エンジニア歴: 3年7ヶ月**（2022年10月〜）
+<!-- experience-years:end -->
+
+| プロジェクト | 期間 | 役割 | ステータス |
+|------|------|------|:------:|
+| ヘルスケアアプリ（登録者数 1,000万人以上）の API・基盤開発 | 約1年 | バックエンド開発 | ![進行中](https://img.shields.io/badge/%E9%80%B2%E8%A1%8C%E4%B8%AD-3fb950?style=flat-square) |
+| 留学プラットフォーム（管理画面・公開画面）の開発 | 約半年 | フロントエンド開発 | ![進行中](https://img.shields.io/badge/%E9%80%B2%E8%A1%8C%E4%B8%AD-3fb950?style=flat-square) |
+| 証券取引アプリの API・基盤開発 | 約1年 | バックエンド開発 | ![完了](https://img.shields.io/badge/%E5%AE%8C%E4%BA%86-6e7681?style=flat-square) |
+| SaaS 管理システムの開発 | 約半年 | バックエンド開発 | ![完了](https://img.shields.io/badge/%E5%AE%8C%E4%BA%86-6e7681?style=flat-square) |
+| 社内勤怠システムのリプレイス | 約半年 | PL / バックエンド開発 | ![完了](https://img.shields.io/badge/%E5%AE%8C%E4%BA%86-6e7681?style=flat-square) |
+| 災害時支援システムの開発 | 約1年 | PM 補佐 / バックエンド開発 | ![完了](https://img.shields.io/badge/%E5%AE%8C%E4%BA%86-6e7681?style=flat-square) |
 
 #### その他の取り組み
 - **AI 開発基盤** — チーム向けの Claude Code プラグイン群と開発プロセス（AI-DLC）を設計・整備
