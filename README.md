@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=26D0CE&center=true&vCenter=true&width=600&lines=%E8%A8%AD%E8%A8%88%E3%82%92%E8%B5%B7%E7%82%B9%E3%81%AB%E3%80%81AI%E3%81%A7%E9%96%8B%E7%99%BA%E3%82%92%E4%BB%95%E7%B5%84%E3%81%BF%E5%8C%96%E3%81%99%E3%82%8B;Architecture-first+Engineer%2C+powered+by+AI" alt="tagline"/>
 </a>
 
-**保守性の高いバックエンド設計と、AI を活用した開発効率化を専門とするエンジニア**
+**バックエンド開発業務と、AI を活用した開発効率化を専門とするエンジニア**
 
 <br/>
 
