@@ -103,8 +103,6 @@ Claude Code のプラグイン／スキル群や AI-DLC（AI 駆動の開発ラ�
 
 <div align="center">
 
-*AI時代に活躍できるエンジニアでありたいと思っています。*
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:26d0ce,100:1a2980&height=120&section=footer"/>
 
 </div>
